@@ -25,7 +25,7 @@ This setup enables multiple clients to connect to the server simultaneously and 
 
 1. Clone and navigate to the project:
    ```bash
-   git clone https://github.com/rai-rajeev/Redix-c.git
+   git clone https://github.com/rai-rajeev/Redis-c.git
 2. Compile the code
    ```bash
    make
